@@ -6,6 +6,11 @@
     "dependencies": {
         "@coral-xyz/anchor": "^0.28.0",
         "@project-serum/anchor": "^0.26.0",
+        "@solana/wallet-adapter-base": "^0.9.23",
+        "@solana/wallet-adapter-react": "^0.15.34",
+        "@solana/wallet-adapter-react-ui": "^0.9.33",
+        "@solana/wallet-adapter-wallets": "^0.19.20",
+        "@solana/web3.js": "^1.78.4",
         "run": "^1.4.0"
     },
     "devDependencies": {
